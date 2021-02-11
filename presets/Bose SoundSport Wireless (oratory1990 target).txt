@@ -1,0 +1,3 @@
+Preamp: -0,1 dB
+Filter 1: ON PK Fc 112 Hz Gain 2,5 dB Q 0,9
+Filter 2: ON LS Fc 380 Hz Gain -4,5 dB Q 0,71

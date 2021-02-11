@@ -1,0 +1,14 @@
+__pycache__/
+.vscode/
+README.md.backup
+
+*.pickle
+
+
+pdf_local/
+tmp_ignore/
+
+log.txt
+pdf_oratory_extract_info.py
+settings.ini
+

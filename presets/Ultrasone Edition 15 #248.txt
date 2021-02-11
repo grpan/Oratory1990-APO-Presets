@@ -1,0 +1,11 @@
+Preamp: -9,3 dB
+Filter 1: ON None Fc 8,5 Hz Gain 10,0 dB Q 0,5
+Filter 2: ON None Fc 170 Hz Gain -9,5 dB Q 0,3
+Filter 3: ON None Fc 15500 Hz Gain -10,0 dB Q 1,0
+Filter 4: ON None Fc 2375 Hz Gain -1,7 dB Q 5,0
+Filter 5: ON None Fc 2700 Hz Gain -6,0 dB Q 5,0
+Filter 6: ON None Fc 3200 Hz Gain 12,0 dB Q 3,0
+Filter 7: ON None Fc 4800 Hz Gain -2,3 dB Q 5,0
+Filter 8: ON None Fc 470 Hz Gain -0,6 dB Q 3,5
+Filter 9: ON None Fc 5700 Hz Gain -3,7 dB Q 6,0
+Filter 10: ON None Fc 9500 Hz Gain 5,0 dB Q 8,0
